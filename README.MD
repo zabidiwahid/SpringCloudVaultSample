@@ -1,14 +1,14 @@
-## HTP Vault
+## Spring Cloud Vault Sample
 
-### This is a simple project on how to use spring cloud vault (Java based)
-### Hashicorp Vault is a tool for securely accessing secrets
+This is a simple project on how to use spring cloud vault (Java based)
+Hashicorp Vault is a tool for securely accessing secrets
 
-### Author: Muhd Zabidi Wahid
-### Date: 29/10/2021
+##### Author: Muhd Zabidi Wahid
+##### Date: 29/10/2021
 
-#### Steps to run this project
+Steps to run this project
 
-#### Prequisite
+Prequisite
 1. JDK 1.8
 2. Maven 
 3. Postgre
