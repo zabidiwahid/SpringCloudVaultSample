@@ -1,28 +1,28 @@
-# HTP Vault
+## HTP Vault
 
-## This is a simple project on how to use spring cloud vault (Java based)
-## Hashicorp Vault is a tool for securely accessing secrets
+### This is a simple project on how to use spring cloud vault (Java based)
+### Hashicorp Vault is a tool for securely accessing secrets
 
-## Author: Muhd Zabidi Wahid
-## Date: 29/10/2021
+### Author: Muhd Zabidi Wahid
+### Date: 29/10/2021
 
-### Steps to run this project
+#### Steps to run this project
 
-### Prequisite
+#### Prequisite
 1. JDK 1.8
 2. Maven 
 3. Postgre
 
-### Steps
+#### Steps
 
-1. Run the sql script from HTPVault/script/postgre.sql in your postgre instance.
+1. Run the sql script from SpringCloudVaultSample/script/postgre.sql in your postgre instance.
 
-2. Edit configuration in HTPVault/src/main/resources/bootstrap.properties
+2. Edit configuration in SpringCloudVaultSample/src/main/resources/bootstrap.properties
    - Server Configuration
    - Spring Cloud Configuration
    - Database Configuration
 
-3. Go to project directory cd ../HTPVault
+3. Go to project directory cd ../SpringCloudVaultSample
 
 4. Build the project using mvn clean install or mvn clean package
 
