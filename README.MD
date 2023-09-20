@@ -6,9 +6,7 @@ Hashicorp Vault is a tool for securely accessing secrets
 ##### Author: Muhd Zabidi Wahid
 ##### Date: 29/10/2021
 
-Steps to run this project
-
-Prequisite
+#### Prequisite
 1. JDK 1.8
 2. Maven 
 3. Postgre
